@@ -1,6 +1,7 @@
 ---
-layout: demo-create-branch
-title: "Welcome to our second slide!"
+new branch created.
+pull request created.
 ---
 Your text
 Use the left arrow to go back!
+
